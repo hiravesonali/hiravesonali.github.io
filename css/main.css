@@ -1891,7 +1891,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #header #logo img {
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  width: 6rem;
+}
 
 @media (max-width: 768px) {
   #header #logo h1 {
@@ -2167,7 +2169,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-img {
   text-align: right;
   position: relative;
-  left: 160px; }
+  left: 160px;
+  margin-bottom: 4rem;
+}
   @media (max-width: 1480px) {
     .banner-img {
       left: 0px; } }
