@@ -706,7 +706,7 @@ td, th {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   #back-top a {
-    background: #EEE83C;
+    background: #28BAB9;
     display: block;
     text-align: center;
     width: 35px;
@@ -2136,7 +2136,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       .banner-content h1 {
         font-size: 32px; } }
   .banner-content .me {
-    background: #EEE83C;
+    background: #28BAB9;
     padding: 18px;
     display: inline-block;
     color: #fff;
@@ -2152,7 +2152,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       height: 0;
       border-left: 26px solid transparent;
       border-right: 0px solid transparent;
-      border-top: 24px solid #EEE83C; }
+      border-top: 24px solid #28BAB9; }
   .banner-content .designation {
     max-width: 390px;
     font-size: 30px;
